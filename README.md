@@ -4,6 +4,7 @@ Minicurso ministrado no IFTech 2019, ocorrido no Instituto Federal da Paraíba, 
 
 ## Material:
 * [Apresentação](https://github.com/calebeof/TecnicasEstruturasAvancadas/blob/master/material/slidesTecnicasEstruturasAvan%C3%A7adas.pdf)
+* [Códigos](https://github.com/calebeof/TecnicasEstruturasAvancadas/tree/master/material/c%C3%B3digos)
 
 ## Ministrantes:
 * [Calebe Oliveira de Figueirêdo](https://www.linkedin.com/in/calebe-oliveira-de-figueir%C3%AAdo-90162515b/)
